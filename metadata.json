@@ -1,0 +1,8 @@
+{
+  "name": "Warka Isii",
+  "description": "A high-fidelity messaging app with integrated Gemini Live conversational voice features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
